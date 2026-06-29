@@ -1,2 +1,3 @@
 # Kresearchlab.com
 一款加密货币工具网站，包含AI交易模块，K线图像识别模块，加密货币基础工具模块，以及新人友好的科普内容
+在线版请移步Kresearchlab.com
